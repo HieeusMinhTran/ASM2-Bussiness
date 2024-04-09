@@ -1,0 +1,41 @@
+ProductID,ProductName,Category,Price
+1,Smartphone X,Phone,800
+2,Laptop Y,Tablet,1200
+3,Headphones A,Headphones,150
+4,Smartwatch B,Smartwatch,250
+5,TV C,TV,1000
+6,Speaker D,Speaker,300
+7,Camera E,Phone,600
+8,Tablet F,Tablet,700
+9,Router G,Tablet,80
+10,Keyboard H,Tablet,50
+11,Mouse I,Tablet,40
+12,Printer J,Printer,200
+13,External Hard Drive K,Printer,120
+14,Monitor L,Printer,300
+15,Phone Charger M,Phone,20
+16,USB Flash Drive N,Phone,15
+17,Wireless Mouse O,Tablet,25
+18,Bluetooth Speaker P,Speaker,70
+19,Earbuds Q,Speaker,80
+20,Power Bank R,Speaker,50
+21,Portable Speaker S,Speaker,90
+22,Webcam T,Camera,60
+23,Wireless Headphones U,Headphones,180
+24,Smart Plug V,Phone,30
+25,Portable Charger W,Speaker,40
+26,Action Camera X,Camera,150
+27,Fitness Tracker Y,Headphones,100
+28,VR Headset Z,Headphones,200
+29,Gaming Mouse A,Mouse,80
+30,Gaming Keyboard B,Keyboard,100
+31,Gaming Headset C,Headphones,120
+32,Gaming Chair D,Headphones,250
+33,Graphics Card E,Printer,500
+34,Computer Monitor F,Monitor,400
+35,Wireless Keyboard G,Keyboard,70
+36,Wireless Earbuds H,Earbuds,120
+37,Bluetooth Earphones I,Earbuds,90
+38,Portable SSD J,Printer,150
+39,Wireless Charging Pad K,Power Bank,60
+40,USB-C Hub L,Speaker,80
